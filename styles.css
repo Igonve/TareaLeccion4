@@ -1,0 +1,56 @@
+.div1 h1{
+    color: red;
+}
+
+
+.div2 span{
+    color:red;
+    position: relative;
+    top: 140px; left: 220px;
+}
+
+.div3-1{
+    border-style: solid;
+    border-color: green;
+    position: static;
+   
+}
+
+.div4-1{
+    border-style: solid;
+    border-color: green;
+    position: relative;
+    left: 30px;
+}
+
+.div5-1{
+    width: 600px;
+    height: 300px;
+    border: solid green;
+    position: relative;
+}
+
+.div5-2{
+    width: 200px;
+    height: 100px;
+    border: solid green;
+    position: absolute;
+    top: 180px; left: 395px;
+
+}
+
+.div6-2{
+    border:green solid;
+    background-color: rgb(80, 180, 80);
+    position: -webkit-sticky;
+    position: sticky;
+    top: 150px;
+}
+
+
+
+.div7-2 h1{
+    position: relative;
+    top: 80px; left: 60px;
+
+}
